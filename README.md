@@ -142,3 +142,17 @@ Mais importante do que o resultado visual é o entendimento da lógica por trás
 
 Esse é exatamente o tipo de base que vocês precisam agora.
 Vamos continuar firmes — cada projeto desses é um degrau rumo à programação profissional.
+
+Aqui está a versão formatada para você colar direto no README, já no mesmo tom humano e professoral:
+
+
+---
+
+🌐 Link do Projeto Publicado
+
+Para visualizar o projeto funcionando diretamente no navegador, acesse:
+
+👉 https://alessandrovitorio.github.io/tido-list-etec/
+
+Usem esse link para consultar o resultado final, comparar com o que vocês desenvolveram e entender como cada parte do código se conecta com o funcionamento real da aplicação.
+
